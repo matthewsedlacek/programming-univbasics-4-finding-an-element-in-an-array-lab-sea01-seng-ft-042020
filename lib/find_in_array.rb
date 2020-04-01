@@ -5,6 +5,6 @@ while i < array.length
   if array[i] == needed_value
     return array[i]
   i += 1 
-end
+  end
   nil 
 end
